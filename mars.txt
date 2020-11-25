@@ -1,5 +1,10 @@
+
 Cold and dry, but everything is my favourite colour.
+<<<<<<< HEAD
 Not much chocolate to be seen.
+=======
+Not much chocolate on mars.
+>>>>>>> b6a2ad6fa6e8f5fae5d88f128cf9a1be10902a85
 The two moons may be a problem for Wolfman.
 But the Mummy will appreciate the lack of humidity.
 Mars may be too cold, consider Venus.
